@@ -40,11 +40,10 @@ export const Para = styled.p`
   width: 90%;
   text-align: center;
   font-weight: 500;
-  border-style: solid;
   font-size: ${props => props.fontSize}px;
 `
 export const InputFormContainer = styled.form`
-  font-family: 'Roboto';
+  font-family: 'Open Sans';
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
